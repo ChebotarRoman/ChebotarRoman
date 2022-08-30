@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ChebotarRoman
+- 👀 I’m interested in QA and sport.
+- 🌱 I’m currently learning QA Automation.
+- 📫 How to reach me: fta.tone.tm@gmail.com
